@@ -1,11 +1,11 @@
 # Site settings
-author: binding-tree-9141
-title: 
+author: Itzel Ortiz
+title: Cheli's Blog
 header-img: img/home-bg.png
 email: itzelortiz72@gmail.com
-copyright_name: binding-tree-9141
+copyright_name: Itzel Ortiz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  For Small Snippets of my Life
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ItzelOrtiz
